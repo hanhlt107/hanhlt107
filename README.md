@@ -12,6 +12,6 @@
 <!-- ══════════════════ TIỂU HÀNH TINH CODE (3D contrib) ══════════════════ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hanhlt107/hanhlt107/main/profile-3d-contrib/0-profile-night-view.svg" alt="3D contribution" />
+<img src="https://raw.githubusercontent.com/hanhlt107/hanhlt107/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution" />
 
 </div>
