@@ -1,6 +1,8 @@
+### 🎧 &nbsp; Thời tiết Hà Nội hôm nay
+
 <p align="center">
   <a href="https://weather-widget-ebon.vercel.app/">
-    <img src="https://weather-widget-ebon.vercel.app/api/weather?view=7d" alt="Thời tiết Hà Nội" />
+    <img src="https://weather-widget-ebon.vercel.app/api/weather?view=7d&hide_title=true&hide_pin=true" alt="Thời tiết Hà Nội" />
   </a>
 </p>
 
