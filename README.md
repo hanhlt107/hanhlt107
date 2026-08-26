@@ -3,7 +3,6 @@
     <img
       src="https://weather-widget-ebon.vercel.app/api/weather?mode=calendar&hide_title=true"
       alt="Nhiệt độ Hà Nội cả tháng"
-      width="420"
     />
   </a>
 </p>
