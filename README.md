@@ -1,4 +1,4 @@
-<h3 align="center">🌈 &nbsp;Thời tiết Hà Nội hôm nay</h3>
+### 🌈 &nbsp;Thời tiết Hà Nội hôm nay
 
 <p align="center">
   <a href="https://weather-widget-ebon.vercel.app/">
@@ -11,7 +11,7 @@
 
 <br/>
 
-<h3 align="center">🎧 &nbsp;Mình đang nghe gì?</h3>
+### 🎧 &nbsp;Mình đang nghe gì?
 
 <p align="center">
   <a href="https://open.spotify.com/user/31h2sjtwn2zke4la7wcdsr7jq7fm">
