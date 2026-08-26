@@ -1,5 +1,3 @@
-### 🌈 &nbsp;Thời tiết Hà Nội hôm nay
-
 <p align="center">
   <a href="https://weather-widget-ebon.vercel.app/">
     <img
