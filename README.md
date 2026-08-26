@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://weather-widget-ebon.vercel.app/">
     <img
-      src="https://weather-widget-ebon.vercel.app/api/weather?view=7d&hide_title=true&hide_pin=true&mode=calendar"
-      alt="Thời tiết Hà Nội — 7 ngày tới"
+      src="https://weather-widget-ebon.vercel.app/api/weather?mode=calendar&hide_title=true"
+      alt="Nhiệt độ Hà Nội cả tháng"
+      width="398"
     />
   </a>
 </p>
