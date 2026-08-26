@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://weather-widget-ebon.vercel.app/">
     <img
-      src="https://weather-widget-ebon.vercel.app/api/weather?view=7d&hide_title=true&hide_pin=true"
+      src="https://weather-widget-ebon.vercel.app/api/weather?view=7d&hide_title=true&hide_pin=true&mode=chart"
       alt="Thời tiết Hà Nội — 7 ngày tới"
     />
   </a>
